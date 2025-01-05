@@ -1,0 +1,38 @@
+{
+    "file": "/mnt/d/Coding/otus_qa_python_parser_logs/logs/access_151444.log",
+    "top_ips": {
+        "205.167.170.15": 31844,
+        "134.249.53.185": 17904,
+        "192.227.172.158": 13474
+    },
+    "top_longest": [
+        {
+            "ip": "62.93.172.245",
+            "date": "23/Dec/2015:07:27:57 +0100",
+            "method": "POST",
+            "url": "/administrator/index.php",
+            "duration": 10000
+        },
+        {
+            "ip": "213.162.68.113",
+            "date": "06/Jan/2016:18:47:57 +0100",
+            "method": "GET",
+            "url": "/media/system/css/modal.css",
+            "duration": 10000
+        },
+        {
+            "ip": "194.166.55.43",
+            "date": "06/Jan/2016:21:29:02 +0100",
+            "method": "GET",
+            "url": "/images/phocagallery/almhuette/thumbs/phoca_thumb_m_terasse.jpg",
+            "duration": 10000
+        }
+    ],
+    "total_stat": {
+        "GET": 171268,
+        "POST": 72548,
+        "HEAD": 322,
+        "PUT": 9
+    },
+    "total_requests": 244147
+}
